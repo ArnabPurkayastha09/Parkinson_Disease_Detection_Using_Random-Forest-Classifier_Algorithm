@@ -14,7 +14,7 @@
   
   7.OS (accommodate both Unix and Windows file paths with the os module)
   
-  8.Spiral/wave dataset(dataset  was curated by Adriano de Oliveira Andrade and Joao Paulo Folado from the NIATS of Federal University of Uberlândia)
+  8.Spiral/wave dataset(dataset  was created by Adriano de Oliveira Andrade and Joao Paulo Folado from the NIATS of Federal University of Uberlândia)
   
   9.Google colab
   
