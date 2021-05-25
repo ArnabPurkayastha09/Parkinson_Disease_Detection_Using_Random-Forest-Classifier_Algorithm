@@ -1,4 +1,4 @@
-# Parkinson_Disease_Detection_Using_Random-Forest-Classifier_Algorithm
+# Parkinson_Disease_Detection_Using_Random-Forest-Classifier_Algorithm(machine learning algorithm)
   1.OpenCV( will be used to read, process, and display images)
  
   2.NumPy(NumPy will calculate statistics and grab random indices)
