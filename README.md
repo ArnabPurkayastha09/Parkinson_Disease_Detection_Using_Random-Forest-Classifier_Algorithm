@@ -18,6 +18,7 @@
   
   9.Google colab
   
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
    # Geometric drawings can be used to detect and predict Parkinson’s disease.
    # We can predict Parkinson with 83.33% accuracy using standard computer vision and machine learning algorithms.
